@@ -1,4 +1,3 @@
-# afghankhorasan
 # Afghan Khorasan Privacy Policy
 
 Afghan Khorasan values your privacy. This Privacy Policy informs you of your choices and our practices regarding any information you provide to us and that we collect.
