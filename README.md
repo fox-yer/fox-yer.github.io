@@ -1,6 +1,6 @@
-# Afghan Khorasan Privacy Policy
+# Techin Privacy Policy
 
-Afghan Khorasan values your privacy. This Privacy Policy informs you of your choices and our practices regarding any information you provide to us and that we collect.
+Techin values your privacy. This Privacy Policy informs you of your choices and our practices regarding any information you provide to us and that we collect.
 
 ## Information We Collect
 
@@ -22,4 +22,4 @@ Our Privacy Policy may change, and we will post any changes on this page. Your c
 
 ## Contact Us
 
-If you have any questions about this Policy or wish to report any violations, please contact us at [info@afghankhorasan.com](mailto:info@afghankhorasan.com).
+If you have any questions about this Policy or wish to report any violations, please contact us at [info@techin.com](mailto:info@techin.com).
