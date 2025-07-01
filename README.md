@@ -1,6 +1,6 @@
-# افغان خراسان - Afghan Khorasan Privacy Policy
+# Afghan Khorasan Privacy Policy
 
-افغان خراسان - Afghan Khorasan values your privacy. This Privacy Policy informs you of your choices and our practices regarding any information you provide to us and that we collect.
+Afghan Khorasan values your privacy. This Privacy Policy informs you of your choices and our practices regarding any information you provide to us and that we collect.
 
 ## Information We Collect
 
